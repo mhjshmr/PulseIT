@@ -6,7 +6,7 @@ It generates detailed HTML and PDF reports to support IT troubleshooting, monito
 <br>
 
 <div align="center">
-  <img src="https://github.com/mhjshmr/EmailSleuth/blob/main/Analyzis%20Output.png" alt="EmailAnlysis Output Report" width="400">
+  <img src="https://github.com/mhjshmr/PulseIT/blob/main/reports/PulseIT%20Output.png" alt="PulseIT Output" width="400">
 </div>
 
 
